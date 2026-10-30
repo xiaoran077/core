@@ -2257,7 +2257,7 @@ CCTV-卫生健康,http://207.56.13.146:81/cdnlive/wsjk.m3u8
 河南卫视,http://61.136.172.236:9901/tsfile/live/0139_1.m3u8?key=txiptv&playlive=1&authid=0
 河南卫视,http://182.150.23.74:808/hls/33/index.m3u8
 河南卫视,http://58.57.40.22:9901/tsfile/live/1048_1.m3u8
-河南卫视,http://tvcdn.stream3.hndt.com/tv/65c4a6d5017e1000b2b6ea2500000000_transios/playlist.m3u8?wsSecret=9b0712efad96082310d6cc014b647a47&wsTime=1793390600
+河南卫视,http://tvcdn.stream3.hndt.com/tv/65c4a6d5017e1000b2b6ea2500000000_transios/playlist.m3u8?wsSecret=612b2bb46f87eb986f4836efe0a92a75&wsTime=1793394221
 河南卫视,http://hlsztemgsplive.miguvideo.com:8080/wd-henanwssd-600/index.m3u8?msisdn=20261029220258ab4106553db848289b91a69abb281cc5&mdspid=&spid=600633&netType=0&sid=5910021585&pid=2028597139&timestamp=20261029220258&Channel_ID=0116_2600000900-99000-201600010010027&ProgramID=790187291&ParentNodeID=-99&assertID=5910021585&client_ip=171.8.79.254&SecurityKey=20261029220258&promotionId=&mvid=5900005706&mcid=500020&playurlVersion=ZQ-A1-9.10.1-SNAPSHOT&userid=&jmhm=&videocodec=h264&appCode=miguvideo_android&bean=mgspad&tid=android&conFee=0&encrypt=7ca88035bf134a1b5af5516fac4b32a6
 河南卫视,https://dxtx.hntv.tv/live/lypd.m3u8?txSecret=10c771842a0be59e8b575d765173ec96&txTime=7B923E0A&wsSecret=985ebb910dd1e9ad9603ffd7670bd155&wsTime=1791183481
 河南卫视,http://hlsztemgsplive.miguvideo.com:8080/wd-henanwssd-600/index.m3u8?msisdn=202610302202589b394701f84f46cbaf5e07e6e56c11a8&mdspid=&spid=600633&netType=0&sid=5910021585&pid=2028597139&timestamp=20261030220258&Channel_ID=0116_2600000900-99000-201600010010027&ProgramID=790187291&ParentNodeID=-99&assertID=5910021585&client_ip=171.8.79.254&SecurityKey=20261030220258&promotionId=&mvid=5900005706&mcid=500020&playurlVersion=WX-A1-9.10.1-SNAPSHOT&userid=&jmhm=&videocodec=h264&appCode=miguvideo_android&bean=mgspad&tid=android&conFee=0&encrypt=89e9359189563c629ee7cb6b184cbf4e
@@ -5157,7 +5157,6 @@ IPTV淘BABY,http://111.196.128.44:20000/rtp/239.3.1.238:8001
 射雕英雄传,https://live.metshop.top/huya/23824164
 射雕英雄传,https://live.ottiptv.cc/huya/23824164
 唐伯虎点秋香,https://v3.dious.cc/20220419/fgAtfUew/index.m3u8
-笑傲江湖,,http://1.94.31.214:35455/yy/1354930909
 笑傲江湖,https://live.metshop.top/yy/1354930909
 笑傲江湖,https://live.metshop.top/huya/26355790
 笑傲江湖,https://live.metshop.top/huya/23865142
@@ -5206,7 +5205,6 @@ IPTV淘BABY,http://111.196.128.44:20000/rtp/239.3.1.238:8001
 电影_刘德华,http://8.155.43.98:35455/huya/11342424
 
 📺电·视·剧,#genre#
-天龙八部,,http://1.94.31.214:35455/yy/1351814644
 天龙八部,http://jiaojirentv.top/2020/yy.php?id=1382881708
 天龙八部,https://live.metshop.top/yy/1351814644
 天龙八部,https://live.metshop.top/huya/20985816
@@ -5215,28 +5213,22 @@ IPTV淘BABY,http://111.196.128.44:20000/rtp/239.3.1.238:8001
 天龙八部,https://live.ottiptv.cc/huya/29981376
 天龙八部,https://live.metshop.top/huya/23903123
 庆余年,http://zzy789.xyz/douyu1.php?id=7812810
-仙剑奇侠传,,http://1.94.31.214:35455/yy/1382749903
 仙剑奇侠传,https://live.ottiptv.cc/yy/1382749903
-新白娘子传奇,,http://1.94.31.214:35455/yy/1354930969
 新白娘子传奇,https://live.metshop.top/yy/1354490667
 新白娘子传奇,https://live.ottiptv.cc/yy/1354490667
 封神榜,https://live.metshop.top/yy/1356043643
 封神榜,https://live.metshop.top/huya/29465849
 封神榜,https://live.ottiptv.cc/huya/29465849
 封神榜,http://1.14.124.206:35455/huya/29465849
-三国演义,,http://1.94.31.214:35455/yy/1354930932
 三国演义,https://live.metshop.top/yy/1354936241
 三国演义,https://live.metshop.top/huya/11602081
 三国演义,https://live.ottiptv.cc/huya/11602081
 三国演义,http://173.208.234.146/live/vlsgyy.m3u8
 红楼梦,https://live.metshop.top/yy/1382745084
-鹿鼎记,,http://1.94.31.214:35455/yy/28265277
 鹿鼎记,http://jiaojirentv.top/2020/yy.php?id=28265277
 鹿鼎记,https://live.metshop.top/huya/23865080
-神雕侠侣,,http://1.94.31.214:35455/yy/1351762426
 神雕侠侣,https://live.metshop.top/yy/1351762426
 倚天屠龙记,https://live.metshop.top/huya/23734246
-寻秦记,,http://1.94.31.214:35455/yy/1382851591
 寻秦记,,https://live.metshop.top/yy/1382749900
 寻秦记,https://live.metshop.top/huya/29465848
 隋唐英雄传,http://zzy789.xyz/douyu1.php?id=7552568
@@ -5246,15 +5238,11 @@ IPTV淘BABY,http://111.196.128.44:20000/rtp/239.3.1.238:8001
 雍正王朝,http://173.208.234.146/live/lbyongzhengwc.m3u8
 康熙王朝,https://live.metshop.top/yy/1382736818
 康熙王朝,http://173.208.234.146/live/lbkangxiwc.m3u8
-少年包青天,,http://1.94.31.214:35455/yy/38498680.
-少年包青天,,http://1.94.31.214:35455/yy/38498680
-神医喜来乐,,http://1.94.31.214:35455/yy/1382714119
 神医喜来乐,https://live.metshop.top/yy/1382714119
 大时代,https://live.metshop.top/yy/1354930891
 大时代,https://live.metshop.top/huya/23865161
 神探狄仁杰,http://zzy789.xyz/douyu1.php?id=6027991
 神探狄仁杰,http://zzy789.xyz/douyu1.php?id=5875025
-狂飙,,http://1.94.31.214:35455/yy/1355142167
 狂飙,https://live.metshop.top/yy/1355142167
 父母爱情,http://173.208.234.146/live/lbfumuaiqing.m3u8
 武林外传,http://173.208.234.146/live/lbwlwz.m3u8
@@ -5268,7 +5256,7 @@ IPTV淘BABY,http://111.196.128.44:20000/rtp/239.3.1.238:8001
 
 📽️纪·录·片,#genre#
 文物宝库,http://60.4.28.229:8077/rtp/239.253.93.180:6437
-文物宝库,https://dxtx.hntv.tv/live/wwbk.m3u8?txSecret=317b89626134fd6bea6e129455b5ff18&txTime=7C4C635C&wsSecret=62d9bbe8b1cf9c5ec6bf223ddf915194&wsTime=1793390600
+文物宝库,https://dxtx.hntv.tv/live/wwbk.m3u8?txSecret=317b89626134fd6bea6e129455b5ff18&txTime=7C4C635C&wsSecret=a046caab8568ec7ac0cf90818544a9ac&wsTime=1793394221
 文物宝库,http://106.59.2.53:55555/rtp/239.200.200.96:8112
 文物宝库,https://dxtx.hntv.tv/live/wwbk.m3u8?txSecret=317b89626134fd6bea6e129455b5ff18&txTime=7C4C635C&wsSecret=2287d7912a5b95ff9ed255084fe37a66&wsTime=1792292630
 文物宝库,https://dxtx.hntv.tv/live/wwbk.m3u8?txSecret=317b89626134fd6bea6e129455b5ff18&txTime=7C4C635C&wsSecret=abe4b004ced2ec85f33578228202def6&wsTime=1790741090
@@ -6890,7 +6878,7 @@ Trace Sports,https://lightning-tracesport-samsungau.amagi.tv/playlist1080p.m3u8
 🎭戏曲频道,#genre#
 梨园,http://60.4.28.229:8077/rtp/239.253.93.133:6441
 梨园,https://dxtx.hntv.tv/live/lypd.m3u8?txSecret=10c771842a0be59e8b575d765173ec96&txTime=7B923E0A&wsSecret=41543190cdf375f1c73207222bb96542&wsTime=1769313549
-梨园,https://dxtx.hntv.tv/live/lypd.m3u8?txSecret=10c771842a0be59e8b575d765173ec96&txTime=7B923E0A&wsSecret=f06523ebf86ece2675c55448a98f9a1c&wsTime=1793390600
+梨园,https://dxtx.hntv.tv/live/lypd.m3u8?txSecret=10c771842a0be59e8b575d765173ec96&txTime=7B923E0A&wsSecret=bc50ca5294df8ec2a9e0b0b4b41ff928&wsTime=1793394221
 梨园,http://hlsztemgsplive.miguvideo.com:8080/migu/kailu/ydcmc/50/20251225/index.m3u8?msisdn=202610310003076a62787f35ac4c5b83c53200cbde21e3&mdspid=&spid=600697&netType=0&sid=5910022344&pid=2028597139&timestamp=20261031000307&Channel_ID=0116_2600000900-99000-201600010010027&ProgramID=961930369&ParentNodeID=-99&assertID=5910022344&client_ip=171.8.79.254&SecurityKey=20261031000307&promotionId=&mvid=5900006785&mcid=500020&playurlVersion=WX-A1-9.10.1-SNAPSHOT&userid=&jmhm=&videocodec=h264&appCode=miguvideo_android&bean=mgspad&tid=android&conFee=0&encrypt=7a671b869ea9f08994f13fcae78d0c9b
 梨园,https://iptv.catvod.com/migu?id=961930369&token=7478279d6d8b11958635ac592e80eb26
 梨园,https://iptv.catvod.com/migu?id=961930369&token=0490ac4a225892f11fdf8b71d6fb1631
@@ -6936,20 +6924,20 @@ Trace Sports,https://lightning-tracesport-samsungau.amagi.tv/playlist1080p.m3u8
 
 🧨历届春晚,#genre#
 1983年春晚,https://alimov2.a.kwimgs.com/upic/2022/01/31/15/BMjAyMjAxMzExNTU5MTRfNDAzMDAxOTlfNjYyNzMxNjcwMjBfMF8z_b_Beb3bda599f76c60c463c433ca7460153.mp4
-1984年春晚,https://alimov2.a.kwimgs.com/upic/2022/01/31/15/BMjAyMjAxMzExNTU5NTRfNDAzMDAxOTlfNjYyNzMyMzg3MTRfMF8z_b_B192356dadbc90d207ba16964d4c2914c.mp4
 1984年春晚,http://txmov2.a.kwimgs.com/upic/2022/01/31/15/BMjAyMjAxMzExNTU5NTRfNDAzMDAxOTlfNjYyNzMyMzg3MTRfMF8z_b_B192356dadbc90d207ba16964d4c2914c.mp4
+1984年春晚,https://alimov2.a.kwimgs.com/upic/2022/01/31/15/BMjAyMjAxMzExNTU5NTRfNDAzMDAxOTlfNjYyNzMyMzg3MTRfMF8z_b_B192356dadbc90d207ba16964d4c2914c.mp4
 1984年春晚,https://txmov2.a.kwimgs.com/upic/2022/01/31/15/BMjAyMjAxMzExNTU5NTRfNDAzMDAxOTlfNjYyNzMyMzg3MTRfMF8z_b_B192356dadbc90d207ba16964d4c2914c.mp4
-1985年春晚,https://alimov2.a.kwimgs.com/upic/2022/01/31/16/BMjAyMjAxMzExNjAwMDFfNDAzMDAxOTlfNjYyNzMyNTAwMzJfMF8z_b_Be73c5abcbc0eeb2ec9fce6842e1362a4.mp4
 1985年春晚,http://txmov2.a.kwimgs.com/upic/2022/01/31/16/BMjAyMjAxMzExNjAwMDFfNDAzMDAxOTlfNjYyNzMyNTAwMzJfMF8z_b_Be73c5abcbc0eeb2ec9fce6842e1362a4.mp4
 1985年春晚,https://txmov2.a.kwimgs.com/upic/2022/01/31/16/BMjAyMjAxMzExNjAwMDFfNDAzMDAxOTlfNjYyNzMyNTAwMzJfMF8z_b_Be73c5abcbc0eeb2ec9fce6842e1362a4.mp4
+1985年春晚,https://alimov2.a.kwimgs.com/upic/2022/01/31/16/BMjAyMjAxMzExNjAwMDFfNDAzMDAxOTlfNjYyNzMyNTAwMzJfMF8z_b_Be73c5abcbc0eeb2ec9fce6842e1362a4.mp4
 1986年春晚,https://txmov2.a.kwimgs.com/upic/2022/01/31/16/BMjAyMjAxMzExNjAwMDRfNDAzMDAxOTlfNjYyNzMyNTU0OTRfMF8z_b_B24f7d19f1132fa5d7f502f8377ad5567.mp4
 1987年春晚,https://txmov2.a.kwimgs.com/bs3/video-hls/5195746663405928031_hlsb.m3u8
 1987年春晚,https://txmov2.a.kwimgs.com/upic/2022/01/31/16/BMjAyMjAxMzExNjAwMDhfNDAzMDAxOTlfNjYyNzMyNjMyMDNfMF8z_b_B570493ed8f7200d4013a66b2d21b2de9.mp4
 1988年春晚,https://txmov2.a.kwimgs.com/bs3/video-hls/5216575810935394655_hlsb.m3u8
 1988年春晚,https://txmov2.a.kwimgs.com/upic/2022/01/31/16/BMjAyMjAxMzExNjAwMTJfNDAzMDAxOTlfNjYyNzMyNjkxNjBfMF8z_b_B8c835b83a92d25bde81ba22c5cd9521e.mp4
 1989年春晚,https://txmov2.a.kwimgs.com/bs3/video-hls/5194620763762726260_hlsb.m3u8
-1989年春晚,https://txmov2.a.kwimgs.com/upic/2022/01/31/16/BMjAyMjAxMzExNjAwMTVfNDAzMDAxOTlfNjYyNzMyNzQ2OTlfMF8z_b_Be477b27b9ce655d2372df56a5a3d96ef.mp4
 1989年春晚,http://txmov2.a.kwimgs.com/upic/2022/01/31/16/BMjAyMjAxMzExNjAwMTVfNDAzMDAxOTlfNjYyNzMyNzQ2OTlfMF8z_b_Be477b27b9ce655d2372df56a5a3d96ef.mp4
+1989年春晚,https://txmov2.a.kwimgs.com/upic/2022/01/31/16/BMjAyMjAxMzExNjAwMTVfNDAzMDAxOTlfNjYyNzMyNzQ2OTlfMF8z_b_Be477b27b9ce655d2372df56a5a3d96ef.mp4
 1991年春晚,https://alimov2.a.kwimgs.com/upic/2022/01/31/16/BMjAyMjAxMzExNjI2MTVfNDAzMDAxOTlfNjYyNzYwNjUxNjVfMF8z_b_B8feb7b85888678d71bf37a259c6850f6.mp4
 1993年春晚,https://alimov2.a.kwimgs.com/upic/2023/01/13/22/BMjAyMzAxMTMyMjEwMDNfNDAzMDAxOTlfOTM1MTIzMzYwODJfMF8z_b_B647d10e431b4cc5e48e6c77347d69021.mp4
 1994年春晚,https://alimov2.a.kwimgs.com/upic/2023/01/13/22/BMjAyMzAxMTMyMjEwMDNfNDAzMDAxOTlfOTM1MTIzMzYxMjNfMF8z_b_B3dde97f36273f04403d4dc5eec611a35.mp4
@@ -6979,13 +6967,13 @@ Trace Sports,https://lightning-tracesport-samsungau.amagi.tv/playlist1080p.m3u8
 2017年春晚,https://alimov2.a.kwimgs.com/upic/2023/01/13/20/BMjAyMzAxMTMyMDA5MjJfNDAzMDAxOTlfOTM0OTkwNDQ2NDhfMF8z_b_B6527b0c2ce3dda1d9b3f34edd4fdb9aa.mp4
 2018年春晚,https://alimov2.a.kwimgs.com/upic/2023/01/06/16/BMjAyMzAxMDYxNjMxMTRfNDAzMDAxOTlfOTI4OTY2ODE2MTBfMF8z_b_B11a778e34390a21de42d407e94f45b91.mp4
 2019年春晚,https://txmov2.a.kwimgs.com/upic/2023/01/06/16/BMjAyMzAxMDYxNjMxMTRfNDAzMDAxOTlfOTI4OTY2ODE2MTBfMF8z_b_B11a778e34390a21de42d407e94f45b91.mp4
-2020年春晚,https://txmov2.a.kwimgs.com/upic/2022/01/30/17/BMjAyMjAxMzAxNzA5NDdfNDAzMDAxOTlfNjYxNzQ2MDAyMTFfMF8z_b_B5d51d9564c5670dc66faeba20aa7af3f.mp4
 2020年春晚,http://txmov2.a.kwimgs.com/upic/2022/01/30/17/BMjAyMjAxMzAxNzA5NDdfNDAzMDAxOTlfNjYxNzQ2MDAyMTFfMF8z_b_B5d51d9564c5670dc66faeba20aa7af3f.mp4
-2021年春晚,https://alimov2.a.kwimgs.com/upic/2022/01/30/17/BMjAyMjAxMzAxNzE4NTJfNDAzMDAxOTlfNjYxNzUzOTg3NjlfMF8z_b_Be41d9503181d7b0608a839ed401e02c2.mp4
+2020年春晚,https://txmov2.a.kwimgs.com/upic/2022/01/30/17/BMjAyMjAxMzAxNzA5NDdfNDAzMDAxOTlfNjYxNzQ2MDAyMTFfMF8z_b_B5d51d9564c5670dc66faeba20aa7af3f.mp4
 2021年春晚,http://txmov2.a.kwimgs.com/upic/2022/01/30/17/BMjAyMjAxMzAxNzE4NTJfNDAzMDAxOTlfNjYxNzUzOTg3NjlfMF8z_b_Be41d9503181d7b0608a839ed401e02c2.mp4
 2021年春晚,https://txmov2.a.kwimgs.com/upic/2022/01/30/17/BMjAyMjAxMzAxNzE4NTJfNDAzMDAxOTlfNjYxNzUzOTg3NjlfMF8z_b_Be41d9503181d7b0608a839ed401e02c2.mp4
-2022年春晚,https://txmov2.a.kwimgs.com/upic/2022/02/01/11/BMjAyMjAyMDExMTEwMjNfNDAzMDAxOTlfNjYzNzA4MTk4NzNfMF8z_b_B898cc7ddd0025bf54ddb18ec1f723c84.mp4
+2021年春晚,https://alimov2.a.kwimgs.com/upic/2022/01/30/17/BMjAyMjAxMzAxNzE4NTJfNDAzMDAxOTlfNjYxNzUzOTg3NjlfMF8z_b_Be41d9503181d7b0608a839ed401e02c2.mp4
 2022年春晚,http://txmov2.a.kwimgs.com/upic/2022/02/01/11/BMjAyMjAyMDExMTEwMjNfNDAzMDAxOTlfNjYzNzA4MTk4NzNfMF8z_b_B898cc7ddd0025bf54ddb18ec1f723c84.mp4
+2022年春晚,https://txmov2.a.kwimgs.com/upic/2022/02/01/11/BMjAyMjAyMDExMTEwMjNfNDAzMDAxOTlfNjYzNzA4MTk4NzNfMF8z_b_B898cc7ddd0025bf54ddb18ec1f723c84.mp4
 2024年春晚,https://p2.bdstatic.com/rtmp.liveshow.lss-user.baidubce.com/live/stream_bduid_6488563992_8982723413/merged_1707497046297_88536_25144_41936.m3u8
 地锅鸡,https://vd4.bdstatic.com/mda-nee3w9hvysz2htkk/480p/h264/1652583640234131248/mda-nee3w9hvysz2htkk.mp4?v_from_s=hkapp-haokan-nanjing&auth_key=1655204769-0-0-307f31c8d52fc424d102f72fc60b80f3&bcevod_channel=searchbox_feed&pd=1&cd=0&pt=3&logid=2169229312&vid=11820591972211290892&abtest=all
 地锅鸡,https://vd4.bdstatic.com/mda-nee3w9hvysz2htkk/480p/h264/1652583640234131248/mda-nee3w9hvysz2htkk.mp4?v_from_s=hkapp-haokan-hbe&auth_key=1655033701-0-0-448270cbc0e8dd01b1d3e3e79c645ede&bcevod_channel=searchbox_feed&pd=1&cd=0&pt=3&logid=0300946132&vid=11820591972211290892&abtest=all
@@ -7347,13 +7335,13 @@ iPanda都江堰青青,http://gcalic.v.myalicdn.com/gc/xiongmao20_1/index.m3u8
 黄龙,https://gcalic.v.myalicdn.com/gc/hlzycc_1/index.m3u8
 
 🕒更新时间,#genre#
-20261031 00:31:00,https://vd3.bdstatic.com/mda-ka59e4w0qxxsxnt0/hd/mda-ka59e4w0qxxsxnt0.mp4?pd=19&vt=1
-👨潇然,https://vdse.bdstatic.com//e214194bf6de7f598b9873619b691fa6.mp4?authorization=bce-auth-v1%2F40f207e648424f47b2e3dfbb1014b1a5%2F2020-01-31T13%3A26%3A53Z%2F-1%2Fhost%2F591e9e423bf5d139c7eac161a481a18a0ccd851124162fcb1cc55e9b2aea36c6
-💯推荐,http://em.21dtv.com/songs/60143329.mkv
-🤫低调,https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/240059400880.mp4
-🟢使用,https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/240139720035.mp4
-⚠️禁止,http://vd3.bdstatic.com/mda-jdngvdh4ru0irwma/mda-jdngvdh4ru0irwma.mp4?playlist=%5B%22hd%22%2C%22sc%22%5D
-🚫贩卖,http://vd3.bdstatic.com/mda-jf6k8v71hrs8s441/mda-jf6k8v71hrs8s441.mp4?playlist=%5B%22hd%22%2C%22sc%22%5D
+20261031 01:34:58,https://vd3.bdstatic.com/mda-ka8qm8710ymkqdry/hd/mda-ka8qm8710ymkqdry.mp4?pd=20&vt=1#https://vd3.bdstatic.com/mda-ka8qm8710ymkqdry/hd/mda-ka8qm8710ymkqdry.mp4?pd=20&vt=1
+👨潇然,https://vdse.bdstatic.com/h265/bd6a1e8931d9ff4a3705ad8d3e5801d45c.mp4?cd=1&hit_bd265_src=1&mpd=1&pd=19&logid=10728288596674539206&vt=-1&svt=-1&cr_max=1&s_score=-1.000000&pt=0&av=17.8&vid=14749408976779077426&mvt=-1&did=b9e4f3d31e216db4f308eb63eb2e3475&cr=1&h265_s=1&sl=155&sle=1&split=387047
+💯推荐,https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/239799088974.mp4
+🤫低调,http://vodcdn.video.taobao.com/oss/ali-video/fd87aea7bc293a5930b8a64c752df476/video.m3u8
+🟢使用,https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/240354863286.mp4
+⚠️禁止,http://antiserver.kuwo.cn/anti.s?rid=MUSIC_1565837&response=res&format=mp4&type=convert_url
+🚫贩卖,https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/240268654616.mp4
 🌆CGTN频道#genre#
 CGTN News,https://english-livebkali.cgtn.com/live/encgtn_0.m3u8
 CGTN Documentary,http://english-livebkali.cgtn.com/live/doccgtn_0.m3u8
