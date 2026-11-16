@@ -1,19 +1,19 @@
 # 完整检测统计日志
-# 生成时间: 20261109 11:20:54
-===== 检测开始: 20261109 09:00:49 =====
+# 生成时间: 20261116 11:14:40
+===== 检测开始: 20261116 08:57:50 =====
 处理远程URL: https://raw.githubusercontent.com/xiaoran67/update/refs/heads/main/output/full.txt
-远程订阅统计: 7793,https://raw.githubusercontent.com/xiaoran67/update/refs/heads/main/output/full.txt
+远程订阅统计: 8327,https://raw.githubusercontent.com/xiaoran67/update/refs/heads/main/output/full.txt
 处理远程URL: https://raw.githubusercontent.com/xiaoran67/update/refs/heads/main/output/result.txt
-远程订阅统计: 2700,https://raw.githubusercontent.com/xiaoran67/update/refs/heads/main/output/result.txt
+远程订阅统计: 2721,https://raw.githubusercontent.com/xiaoran67/update/refs/heads/main/output/result.txt
 脚本目录: /home/runner/work/core/core/assets/livesource/blacklist
-本地black文件行数: 67018
-初始总行数（远程+本地）: 77511
-分解#后行数: 77580
-去$后行数: 77580
-去重后行数: 74460
+本地black文件行数: 67432
+初始总行数（远程+本地）: 78480
+分解#后行数: 78549
+去$后行数: 78549
+去重后行数: 75402
 并发线程数: 30
-检测结果: 成功7026条, 失败67432条
+检测结果: 成功7561条, 失败67838条
 结果文件保存: /home/runner/work/core/core/assets/livesource/blacklist/whitelist_auto.txt, /home/runner/work/core/core/assets/livesource/blacklist/whitelist_auto_tv.txt, /home/runner/work/core/core/assets/livesource/blacklist/blacklist_auto.txt
-历史记录保存: /home/runner/work/core/core/assets/livesource/blacklist/history/blacklist/20261109_11_20_54_whitelist_auto.txt, /home/runner/work/core/core/assets/livesource/blacklist/history/blacklist/20261109_11_20_54_blacklist_auto.txt
-执行时间: 140分4秒 (开始: 20261109_09_00_49, 结束: 20261109_11_20_54)
-故障主机统计保存: /home/runner/work/core/core/assets/livesource/blacklist/blackhost/20261109_11_20_54_blackhost_count.txt
+历史记录保存: /home/runner/work/core/core/assets/livesource/blacklist/history/blacklist/20261116_11_14_40_whitelist_auto.txt, /home/runner/work/core/core/assets/livesource/blacklist/history/blacklist/20261116_11_14_40_blacklist_auto.txt
+执行时间: 136分49秒 (开始: 20261116_08_57_50, 结束: 20261116_11_14_40)
+故障主机统计保存: /home/runner/work/core/core/assets/livesource/blacklist/blackhost/20261116_11_14_40_blackhost_count.txt
