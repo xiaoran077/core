@@ -2771,7 +2771,7 @@ CCTV-卫生健康,http://104.152.209.49:8181/720p/wsjk.m3u8
 河南卫视,http://61.136.172.236:9901/tsfile/live/0139_1.m3u8
 河南卫视,http://61.136.172.236:9901/tsfile/live/0139_1.m3u8?key=txiptv&playlive=1&authid=0
 河南卫视,http://58.57.40.22:9901/tsfile/live/1048_1.m3u8
-河南卫视,http://tvcdn.stream3.hndt.com/tv/65c4a6d5017e1000b2b6ea2500000000_transios/playlist.m3u8?wsSecret=345568eaa3a0d6c9dc8d5884b21e5cc8&wsTime=1795565082
+河南卫视,http://tvcdn.stream3.hndt.com/tv/65c4a6d5017e1000b2b6ea2500000000_transios/playlist.m3u8?wsSecret=22ff8e4d152e66a0a806f6f8d3ad2bd5&wsTime=1795568602
 河南卫视,https://dxtx.hntv.tv/live/lypd.m3u8?txSecret=10c771842a0be59e8b575d765173ec96&txTime=7B923E0A&wsSecret=985ebb910dd1e9ad9603ffd7670bd155&wsTime=1791183481
 河南卫视,http://27.12.12.40:1234/790187291
 河南卫视,http://113.124.186.195:7788/790187291
@@ -5266,13 +5266,13 @@ CCTV-卫生健康,http://104.152.209.49:8181/720p/wsjk.m3u8
 西藏影视文化,http://php.jdshipin.com:8880/xztv.php?id=ys
 
 🕒更新时间,#genre#
-20261125 04:30:27,https://gitee.com/xiaoran67/core/raw/master/assets/subscribe/resources/vid/about_video3.mp4
-👨潇然,https://vdse.bdstatic.com//d40f12d356abf404842e05fb3698da27.mp4?authorization=bce-auth-v1%2F40f207e648424f47b2e3dfbb1014b1a5%2F2024-10-18T03%3A25%3A44Z%2F-1%2Fhost%2Fbe3cf6a800f7d27ee97e95be68ce61876e6ae3059b7e86449fe5e0708db1cf7d
-💯推荐,http://vd3.bdstatic.com/mda-jennyc5ci1ugrxzi/mda-jennyc5ci1ugrxzi.mp4?playlist=%5B%22hd%22%2C%22sc%22%5D
-🤫低调,https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/239846692034.mp4
-🟢使用,http://em.21dtv.com/songs/60007649.mkv
-⚠️禁止,https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/240059400880.mp4
-🚫贩卖,https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/240241527208.mp4
+20261125 05:49:38,https://vd3.bdstatic.com/mda-qihit1c8p2p8yumb/hd/cae_h264/1726668772226763886/mda-qihit1c8p2p8yumb.mp4?pd=19&vt=1#https://vd3.bdstatic.com/mda-qhfbbe265z33cqyp/576p/h264/1723795491050620986/mda-qhfbbe265z33cqyp.mp4?pd=19&vt=1#https://vd3.bdstatic.com/mda-qdd5d1ybi8r3wy82/hd/cae_h264/1713529013016760562/mda-qdd5d1ybi8r3wy82.mp4?pd=19&vt=1
+👨潇然,https://vd3.bdstatic.com/mda-phky7mnb5ugtqu3t/720p/h264/1692658036292887025/mda-phky7mnb5ugtqu3t.mp4?pd=19&vt=1
+💯推荐,https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/240301854532.mp4
+🤫低调,http://vd3.bdstatic.com/mda-jfghscj8datutink/mda-jfghscj8datutink.mp4?playlist=%5B%22hd%22%2C%22sc%22%5D
+🟢使用,https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/239903321355.mp4
+⚠️禁止,https://vdse.bdstatic.com//cd396057d1fbcb12f0600d38a16effbc.mp4
+🚫贩卖,http://bizcommon.alicdn.com/l2nDqpMmn6DGHnWzZQA/fi3PjAgsnTjwzAvSboT%40%40hd.m3u8
 🌆CGTN频道#genre#
 CGTN News,https://english-livebkali.cgtn.com/live/encgtn_0.m3u8
 CGTN Documentary,http://english-livebkali.cgtn.com/live/doccgtn_0.m3u8
